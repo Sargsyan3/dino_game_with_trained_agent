@@ -51,3 +51,4 @@ The player gets penalized for collisions (-100).
 High Score
 The high score is saved to a file (high_score.txt) and is displayed on the screen during gameplay.
 If a new high score is achieved, it gets saved to the file.
+![ScreenRecording2025-01-17at9 00 23PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0a7fe458-afc1-4091-8d05-62541ff8f58b)
