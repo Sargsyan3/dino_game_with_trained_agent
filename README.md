@@ -1,3 +1,5 @@
+#Dino Game with Day/Night Cycle & Obstacle Variations
+
 This repository contains an implementation of the Google Dino Game using Pygame and the Gymnasium (formerly Gym) environment. The game simulates the classic Dino game where the player must jump over obstacles, but with enhanced features such as a dynamic day/night cycle, obstacle color variations, and high score tracking.
 
 The environment is structured for use in reinforcement learning (RL) setups, making it easy to integrate RL algorithms.
